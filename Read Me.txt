@@ -1,0 +1,7 @@
+cookingrecipedb is my database, it is an sql file exported from MySQL.It contains preloaded recipes to test its functionality.
+
+please let me know if there is any trouble importing the database into MySQL.
+
+Sazin Bin Noor
+ID:2110806
+email: 2110806@iub.edu.bd
